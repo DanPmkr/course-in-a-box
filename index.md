@@ -43,7 +43,7 @@ Social media
 
 #### About Us
 
-Hagteni Tech is a Digital Marketing and Online business expert that provides valuable tools and support to help you start making money online. 
+Hagteni Digital Empire is a Digital Marketing and Online business expert that provides valuable tools and support to help you start making money online. 
 For questions and support, Send a message through our contact page.
 
 <br> 
