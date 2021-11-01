@@ -1,8 +1,9 @@
 ## Step 1: Getting Started 
 
+
 #### What is in this Course
 
-In this course you will learn how to create eBooks, Sell them and keep 100% of the profit without publishers, marketers or advert.
+You will learn how to create eBooks, Sell them and keep 100% of the profit without publishers, marketers or advert.
 
 <br> 
 
