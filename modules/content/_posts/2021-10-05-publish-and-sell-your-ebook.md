@@ -1,1 +1,3 @@
-## Step 6: Publish and Sell Your eBook
+## Step 5: Publish and Sell Your eBook
+
+Congtratulations. Now that your eBook is ready. Start selling...
