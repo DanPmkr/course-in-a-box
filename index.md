@@ -6,6 +6,7 @@ published: true
 Ebook creation does not have to be overwhelming. 
 You do not need to write the content, design complex covers and format your content. 
 <br>
+
 All you need to do is put in little work which I will show, and you can create professional-looking ebook that people will be eager to pay and download.
 
 We will provide FREE 110 books that you can customised to make your own and start selling immediately. 
@@ -34,7 +35,8 @@ In this course you will learn how to create eBooks, Sell them and keep 100% of t
 * Publish & Sell Your EBook
 
 <br> 
-**Bonus: Where and How to Sell**
+#### Bonus: Where and How to Sell
+
 * How to Create Free Landing Sales Page 
 * Online Store
 * Social media Sales
