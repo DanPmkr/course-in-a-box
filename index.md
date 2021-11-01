@@ -35,9 +35,9 @@ In this course you will learn how to create eBooks, Sell them and keep 100% of t
 
 <br> 
 **Bonus: Where and How to Sell**
-How to Create a landing page for your ebooks
-Online Store
-Social media 
+* How to Create Free Landing Sales Page 
+* Online Store
+* Social media Sales
 
 <br> 
 
