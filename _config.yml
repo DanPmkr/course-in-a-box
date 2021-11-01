@@ -32,7 +32,7 @@ prose:
 # this is a hex value http://www.w3schools.com/tags/ref_colorpicker.asp
 jumbotron_color: "#800080"
 #jumbotron_color: "#58D7CB"
-jumbotron_image: "img/hagteni.svg"
+jumbotron_image: "img/background-1.png"
 # jumbotron_image: "img/jumbotron-image.svg"
 # jumbotron_mask: "img/jumbotron-mask.svg"
 jumbotron_icon: "img/box-icon.png"
