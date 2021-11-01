@@ -1,4 +1,4 @@
-## Step 1: Getting Started 
+## Getting Started 
 
 
 #### What is in this Course
