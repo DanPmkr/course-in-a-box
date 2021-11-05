@@ -4,7 +4,7 @@ After you have made the decision on the niche to create your eBook.
 
 Select and download the document from the downloaded books.
 
-####Step 1: Ask Some Questions about Your Readers and Their Needs
+### Step 1: Ask Some Questions about Your Readers and Their Needs
 
 here are some questions I’d suggest you consider to help you identify and sort through those hunches.
 
@@ -19,7 +19,7 @@ here are some questions I’d suggest you consider to help you identify and sort
 
 Answering these types of questions should point you in the direction of some topics that could be suitable for an e-book.
 
-####Step 2: Ask Some some More Probing Questions to Narrow in on the Topic
+### Step 2: Ask Some some More Probing Questions to Narrow in on the Topic
 
 Once you’ve identified some of these topics you will probably want to narrow the field a little by asking some of these questions:
 
@@ -30,7 +30,7 @@ Once you’ve identified some of these topics you will probably want to narrow t
     are there many other resources already available on the topic – how will yours be different?
     is the topic you’re thinking about too wide or narrow? Sometimes topics are too big and could end up being a series of e-books. ON the other hand some topics are too narrow to really justify being an e-book and perhaps it’d be best to widen it and look at a larger topic.
 
-####Step 3: Test Your Topics
+### Step 3: Test Your Topics
 
 Once you’ve narrowed Your Field – test the topics that you’ve come up with. I’ve seen a number of bloggers come up with ideas for big projects that they think are great which in reality are not. If only they’d tested their ideas before investing significant time into them!
 
