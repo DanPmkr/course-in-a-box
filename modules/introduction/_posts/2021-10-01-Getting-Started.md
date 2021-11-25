@@ -3,7 +3,7 @@
 
 #### What is in this Course
 
-You will learn how to create eBooks, Sell them and keep 100% of the profit without publishers, marketers or advert.
+You will learn how to create eBooks, Sell them and keep 100% of the profit without sharing it with publishers, marketers or advertisers.
 
 <br> 
 
